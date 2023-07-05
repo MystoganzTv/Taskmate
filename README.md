@@ -1,6 +1,6 @@
 ## Deployment site
 
-http://www.taskmate-mystoganztv.netlify.app
+taskmate-mystoganztv.netlify.app
 
 ## Available Scripts
 
